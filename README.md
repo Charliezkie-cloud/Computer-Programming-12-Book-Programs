@@ -1,7 +1,7 @@
 # Hi classmates!
-## Charles here. I’ve completed the programs from our Computer Programming 12 Java book on page 125 (numbers 12–16) for you to study and learn from ;D
-### Feel free to review them ;D
-### Any feedback, corrections, or suggestions are very welcome!
+Charles here. I’ve completed the programs from our Computer Programming 12 Java book on page 125 (numbers 12–16) for you to study and learn from ;D
+- Feel free to review them ;D
+- Any feedback, corrections, or suggestions are very welcome!
 
 # Unsaon pag download?!
 ## Method 1 - Git
