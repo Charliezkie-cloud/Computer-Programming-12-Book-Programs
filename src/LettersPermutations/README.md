@@ -1,2 +1,2 @@
-# No. 17 Instruction
+# No. 17 Instruction - Letter Permunations Program
 ## A permutation of three objects, a, b, and c, is any arrangement of these objects in a row. For example, some of the permutations of these objects are abc, bca, and cab. The number of permutations of three objects is 6. Suppose that these three objects are strings. Write a program that prompts the user to enter three strings. The program then outputs the six permutations of those strings.

@@ -1,7 +1,2 @@
-# No. 16 Instruction
-## You found an exciting summer job for five weeks. It pays $15.50 per hour. Suppose that the total tax you pay on your summer job income is 14%. After paying the taxes, you spend 10% of your net income to buy new clothes and other accessories for the next school year and 1% to buy school supplies. After buying clothes and school supplies, you use 25% of the remaining money to buy savings bonds. For each dollar you spend to buy savings bonds, your parents spend $0.50 to buy additional savings bonds for you. Write a program that prompts the user to enter the pay rate for an hour and the number of hours you worked each week. The program then outputs the following:
-### a. Your income before and after taxes from your summer job
-### b. The money you spend on clothes and other accessories
-### c. The money you spend on school supplies
-### d. The money you spend to buy savings bonds
-### e. The money your parents spend to buy additional savings bonds for you
+# No. 13 Instruction - Sales Tax Calculator Program
+## To make a profit, a local store marks up the prices of its items by a certain percentage. Write a Java program that reads the original price of the item sold, the percentage of the marked-up price, and the sales tax rate. The program then outputs the original price of the item, the marked-up percentage of the item, the store’s selling price of the item, the sales tax rate, the sales tax, and the final price of the item. (The final price of the item is the selling price plus the sales tax.)
