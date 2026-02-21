@@ -6,7 +6,7 @@ public class Main {
          * Letters permutations by Charles Henry M. Tinoy Jr.
          *
          * Huhu algorithm nani sya so please refer lang ari:
-         * https://www.geeksforgeeks.org/java/java-program-to-print-all-permutations-of-a-given-strings
+         * https://www.geeksforgeeks.org/java/java-program-to-print-all-permutations-of-a-given-string
          *
          * Recursion tree nga akoang gi sunod:
          * https://media.geeksforgeeks.org/wp-content/cdn-uploads/NewPermutation.gif
